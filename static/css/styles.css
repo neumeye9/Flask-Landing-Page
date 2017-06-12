@@ -1,0 +1,18 @@
+/* RESET SETTINGS HERE */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    color: blue;
+}
+h2{
+    color: red
+}
+p{
+    background-color: black;
+    color: white
+}
+form{
+    border: 10px solid black;
+}
